@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pixeler</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="app_version">version 0.6</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_clear">Clear Image</string>
+
+    <string name="starter_text">Once you open an image,\nyou'll see it in here</string>
+</resources>
