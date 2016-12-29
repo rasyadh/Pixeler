@@ -62,7 +62,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center"
-            android:text="@string/starter_text"
+            android:text="Once you open an image,\nyou'll see it in here"
             android:visibility="visible" />
     </LinearLayout>
 
