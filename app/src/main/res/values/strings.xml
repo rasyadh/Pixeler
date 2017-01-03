@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">Pixeler</string>
     <string name="app_version">version 0.6</string>
+    <string name="app_logo">Pixeler Logo</string>
 
     <string name="action_save">Save</string>
     <string name="action_clear">Clear Image</string>
+
+    <string name="image_sample">Image sample</string>
+    <string name="starter_text">Once you open an image,\n you will see it in here</string>
 </resources>

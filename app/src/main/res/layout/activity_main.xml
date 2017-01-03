@@ -54,7 +54,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:src="@drawable/ic_photo_collection"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:contentDescription="@string/image_sample"/>
 
         <TextView
             android:id="@+id/starterText"
@@ -62,7 +63,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center"
-            android:text="Once you open an image,\nyou'll see it in here"
+            android:text="@string/starter_text"
             android:visibility="visible" />
     </LinearLayout>
 
